@@ -1,0 +1,46 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "avg_hours_week",
+      "plan",
+      "main_device",
+      "tenure_months",
+      "monthly_fee_rm",
+      "support_calls",
+      "payment_method",
+      "contract"
+    ],
+    "data": [
+      [
+        4.3,
+        "Basic",
+        "Laptop",
+        22,
+        20.9,
+        1,
+        "E-wallet",
+        "Monthly"
+      ],
+      [
+        1.3,
+        "Basic",
+        "TV",
+        33,
+        23.3,
+        4,
+        "E-wallet",
+        "Monthly"
+      ],
+      [
+        4.8,
+        "Premium",
+        "Laptop",
+        7,
+        55.5,
+        1,
+        "Card",
+        "Monthly"
+      ]
+    ]
+  }
+}
